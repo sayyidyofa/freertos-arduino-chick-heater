@@ -1,5 +1,7 @@
 # freertos-arduino-chick-heater
 
+This project is made for college final assignment, Real-Time Operating System.
+
 ![alt text](https://raw.githubusercontent.com/sayyidyofa/freertos-arduino-chick-heater/master/Chick%20Heater_bb.jpg "Fritzing Schematic")
 
 Control Heating Lamp with DHT11 temperature and humidity sensor and Arduino Uno, with the use case of chick pen.
